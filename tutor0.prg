@@ -1,7 +1,5 @@
 PROGRAM tutor0;
 
-include "linea.prg";
-
 BEGIN
     // Set our screen resolution
     set_mode(m640x480);
